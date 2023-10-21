@@ -1,5 +1,5 @@
 # The_Spark_Foundation_Task
-his repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
 Internship Category - Data Science and Business Analytics
 Internship Duration - 2 Month ( September-2023 )
